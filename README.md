@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayushi</h1>
 <h3 align="center">A passionate full stack developer and problem solver enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi111&label=Profile%20views&color=0e75b6&style=flat" alt="aayushi111" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi1111&label=Profile%20views&color=0e75b6&style=flat" alt="aayushi111" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushi111" alt="aayushi111" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushi111" alt="aayushi1111" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
