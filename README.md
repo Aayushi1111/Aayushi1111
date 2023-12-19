@@ -2,7 +2,10 @@
 <h1 align="center">Hey there! 👋 I'm Aayushi</h1>
 <h3 align="center">A passionate problem solver and full-stack developer from the vibrant lands of India 🇮🇳</h3>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aayushi1111&style=flat-square" alt="Profile Views Count" />
+</p>
+<img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 <h2 align="center">About Me in Code</h2>
