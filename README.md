@@ -2,17 +2,8 @@
 <h1 align="center">Hey there! 👋 I'm Aayushi</h1>
 <h3 align="center">A passionate problem solver and full-stack developer from the vibrant lands of India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayushi1111&show_icons=true" alt="GitHub Stats" />
-</p>
 
-<h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <!-- Add your other tools and languages here in a similar manner -->
-</p>
 
 <h2 align="center">About Me in Code</h2>
 
@@ -21,17 +12,15 @@ const Aayushi = {
   pronouns: "she" | "her",
   code: ["JavaScript", "Python", "C++", "HTML", "CSS"],
   tools: ["React", "Node", "Firebase", "MongoDB", "MySQL", "Heroku"],
-  techCommunities: {
-    coOrganizer: "TechMeetups India",
-    mentor: "CodeNewbies",
-    speaker: "Local Dev Conferences"
-  },
   challenge: "Always eager to learn and tackle new problems!"
 };
 <h2 align="center">Get in Touch</h2>
 <p align="center">
-  <a href="mailto:aayushi@example.com">
+  <a href="aayushikushwaha99@gmail.com">
     <img src="https://img.shields.io/badge/-Email-ff69b4?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+   <a href="https://www.linkedin.com/in/aayushi-kushwaha-2aa4b5203/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
   
   <!-- Add other social media or contact badges here -->
